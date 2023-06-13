@@ -1,0 +1,10 @@
+* screamer
+
+Screamer is an extension of Common Lisp that adds support for nondeterministic programming.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nikodemus/screamer   |
+| commit  | ce50614  |
+| systems | screamer |
+|---------+-------------------------------------------|
+

@@ -4,6 +4,6 @@ Screamer is an extension of Common Lisp that adds support for nondeterministic p
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/swapneils/screamer.git |
-| commit  | 99dbc65                                       |
+| commit  | 82f2c1b                                       |
 | systems | screamer                                      |
 |---------+-----------------------------------------------|
